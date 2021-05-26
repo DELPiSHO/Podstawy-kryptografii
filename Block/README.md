@@ -1,0 +1,2 @@
+Program block powinien czytać pliki: graficzny plain.bmp i opcjonalnie tekstowy key.txt z kluczem i powinien zapisywać dwa pliki graficzne "zaszyfrowanego" obrazu ecb_crypto.bmp oraz cbc_crypto.bmp. W rozwiązaniu należy przesłać program w wersji źródłowej i skompilowanej jak również testowy plik graficzny i ew. plik z kluczem.
+Uwaga: w programie nie wolno stosować wbudowanych bibliotek kryptograficznych z wywołaniem funkcji szyfrowania w wybranym trybie blokowym, należy te tryby zaimplementować własnoręcznie.
